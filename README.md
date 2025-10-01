@@ -1,4 +1,4 @@
-# 🖌️ Química - PayTec
+# 🧮 Química - PayTec
 
 Este proyecto es una aplicación diseñada para gestionar el pago de inscripciones, cursos y el historial académico de estudiantes en el área de la química. Pensada para instituciones educativas, este sistema permite llevar un control eficiente de usuarios (alumnos), pagos, cursos y relaciones con los maestros **en C#**.
 
